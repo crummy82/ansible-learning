@@ -1,3 +1,13 @@
-192.168.8.250
-192.168.8.251
-192.168.8.252
+[web_servers]
+ansible
+ansible3
+
+[db_servers]
+ansible2
+
+[file_servers]
+ansible3
+
+[python3_servers]
+ansible2
+ansible3
